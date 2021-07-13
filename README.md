@@ -5,6 +5,6 @@ Hello and Welcome, my name is Ismael Ramadan I'm 23 years old, I'm studying Soft
 
 File name | Link
 ----------|---------
-Growth Mind-set | [GrowthMind-set](https://ismaellebzo.github.io/reading-notes/Growth%20Mind-set)
+Growth Mind-set | [GrowthMind-set](https://ismaellebzo.github.io/reading-notes/GrowthMind-set)
 Read01 | [Markdown](https://ismaellebzo.github.io/reading-notes/Markdown)
 Read02 | [Git](https://ismaellebzo.github.io/reading-notes/Git)
