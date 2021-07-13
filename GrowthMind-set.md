@@ -1,4 +1,4 @@
-## Hello and Welcome, my name is Ismael Ramadan I'm 23 years old, I'm studying Software Engineering and this is my second year in ASAC, I hope I will be able to work for a big company one day.
+## Hello and Welcome, my name is Ismael Ramadan I'm 23 years old, I'm studying Software Engineering and this is my second year in ASAC, I hope I will be able to work for a big company one day. [My GitHub link!](https://github.com/IsmaelLebzo)
 # Growth-Mindset
 **How you can benefit from a growth mindset** 
 
