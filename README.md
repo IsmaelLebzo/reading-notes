@@ -7,3 +7,4 @@ File name | Link
 ----------|---------
 Growth Mind-set | [GrowthMind-set](https://ismaellebzo.github.io/reading-notes/Growth%20Mind-set)
 Read01 | [Markdown](https://ismaellebzo.github.io/reading-notes/Markdown)
+Read02 | [Git](https://ismaellebzo.github.io/reading-notes/Git)
