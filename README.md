@@ -8,3 +8,5 @@ File name | Link
 Growth Mind-set | [GrowthMind-set](https://ismaellebzo.github.io/reading-notes/GrowthMind-set)
 Read01 | [Markdown](https://ismaellebzo.github.io/reading-notes/Markdown)
 Read02 | [Git](https://ismaellebzo.github.io/reading-notes/Git)
+Read03 | [HTML-Wireframe](https://ismaellebzo.github.io/reading-notes/read3)
+Read04 | [JavaScript](https://ismaellebzo.github.io/reading-notes/read4)
