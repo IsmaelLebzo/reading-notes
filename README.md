@@ -13,3 +13,5 @@ Read04 | [JavaScript](https://ismaellebzo.github.io/reading-notes/read4)
 Read05 | [Operators and Loops](https://ismaellebzo.github.io/reading-notes/read5)
 Read06 | [CSS](https://ismaellebzo.github.io/reading-notes/read6)
 Read07 | [Functions](https://ismaellebzo.github.io/reading-notes/read7)
+Read06 | [CSS](https://ismaellebzo.github.io/reading-notes/read6)
+
