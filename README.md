@@ -19,4 +19,4 @@ Read07 | [Functions](https://ismaellebzo.github.io/reading-notes/read7)
 
 File name | Link
 ----------|---------
-Read01 | [Readings Overview]()
+Read01 | [HTML,CSS and JS](https://ismaellebzo.github.io/reading-notes/read1.2)
