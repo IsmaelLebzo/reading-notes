@@ -20,3 +20,4 @@ Read07 | [Functions](https://ismaellebzo.github.io/reading-notes/read7)
 File name | Link
 ----------|---------
 Read01 | [HTML,CSS and JS](https://ismaellebzo.github.io/reading-notes/read1.2)
+Read02 | [HTML,SCC and JS part 2](https://ismaellebzo.github.io/reading-notes/read2.2)
