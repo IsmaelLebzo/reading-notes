@@ -1,7 +1,7 @@
 # HTML & CSS by JON DUCKETT Part IV
 ![HTML & CSS](https://media2.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif?cid=2415316ag2evga5etk40a6es7aycehosypblh5gajm0a8035&rid=giphy.gif&ct=g)
  
- ## Links
+## Links
 
 Links are the defining feature of the web
 because they allow you to move from
