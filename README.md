@@ -24,3 +24,4 @@ Read02 | [HTML,SCC and JS part 2](https://ismaellebzo.github.io/reading-notes/re
 Read03 | [HTML,SCC and JS part 3](https://ismaellebzo.github.io/reading-notes/read3.2)
 Read04 | [HTML,SCC and JS part 4](https://ismaellebzo.github.io/reading-notes/read4.2)
 Read05 | [HTML,SCC and JPEG vs PNG vs GIF](https://ismaellebzo.github.io/reading-notes/read5.2)
+Read06 | [Problem of domain and JS part 5](https://ismaellebzo.github.io/reading-notes/read6.2)
