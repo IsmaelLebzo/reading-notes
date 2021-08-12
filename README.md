@@ -28,3 +28,4 @@ Read06 | [Problem of domain and JS part 6](https://ismaellebzo.github.io/reading
 Read07 | [Domain Modeling and HTML and JS part 7](https://ismaellebzo.github.io/reading-notes/read7.2)
 Read08 | [HTML and CSS part 8](https://ismaellebzo.github.io/reading-notes/read8.2)
 Read09 | [HTML and CSS and JS part 9](https://ismaellebzo.github.io/reading-notes/read9.2)
+Read010 | [JS part 10](https://ismaellebzo.github.io/reading-notes/read10.2)
