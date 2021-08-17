@@ -31,3 +31,4 @@ Read09 | [HTML and CSS and JS part 9](https://ismaellebzo.github.io/reading-note
 Read010 | [JS part 10](https://ismaellebzo.github.io/reading-notes/read10.2)
 Read011 | [HTML part 11](https://ismaellebzo.github.io/reading-notes/read11.2)
 Read012 | [Read part 12](https://ismaellebzo.github.io/reading-notes/read12.2)
+Read013 | [Read part 13](https://ismaellebzo.github.io/reading-notes/read13.2)
