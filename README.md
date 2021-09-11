@@ -40,4 +40,4 @@ Read014 | [Read part 14 Part 2](https://ismaellebzo.github.io/reading-notes/read
 
 File name | Link
 ----------|---------
-Read01 | []()
+Read01 | [Introduction to React and Components](https://ismaellebzo.github.io/reading-notes/read1.3)
