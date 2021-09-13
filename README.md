@@ -41,3 +41,4 @@ Read014 | [Read part 14 Part 2](https://ismaellebzo.github.io/reading-notes/201/
 File name | Link
 ----------|---------
 Read01 | [Introduction to React and Components](https://ismaellebzo.github.io/reading-notes/301/read1.3)
+Read02 | [React: Component Lifecycle Events](https://ismaellebzo.github.io/reading-notes/301/read2.3)
