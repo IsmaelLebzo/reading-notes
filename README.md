@@ -42,3 +42,4 @@ File name | Link
 ----------|---------
 Read01 | [Introduction to React and Components](https://ismaellebzo.github.io/reading-notes/301/read1.3)
 Read02 | [React: Component Lifecycle Events](https://ismaellebzo.github.io/reading-notes/301/read2.3)
+Read03 | [Passing Functions as Props](https://ismaellebzo.github.io/reading-notes/301/read3.3)
