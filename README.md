@@ -44,3 +44,4 @@ Read01 | [Introduction to React and Components](https://ismaellebzo.github.io/re
 Read02 | [React: Component Lifecycle Events](https://ismaellebzo.github.io/reading-notes/301/read2.3)
 Read03 | [Passing Functions as Props](https://ismaellebzo.github.io/reading-notes/301/read3.3)
 Read04 | [React and Forms](https://ismaellebzo.github.io/reading-notes/301/read4.3)
+Read05 | [Putting it all together](https://ismaellebzo.github.io/reading-notes/301/read5.3)
