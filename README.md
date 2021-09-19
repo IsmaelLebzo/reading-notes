@@ -45,3 +45,4 @@ Read02 | [React: Component Lifecycle Events](https://ismaellebzo.github.io/readi
 Read03 | [Passing Functions as Props](https://ismaellebzo.github.io/reading-notes/301/read3.3)
 Read04 | [React and Forms](https://ismaellebzo.github.io/reading-notes/301/read4.3)
 Read05 | [Putting it all together](https://ismaellebzo.github.io/reading-notes/301/read5.3)
+Read06 | [NODE.JS](https://ismaellebzo.github.io/reading-notes/301/read6.3)
