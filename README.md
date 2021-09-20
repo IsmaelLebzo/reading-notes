@@ -47,3 +47,4 @@ Read04 | [React and Forms](https://ismaellebzo.github.io/reading-notes/301/read4
 Read05 | [Putting it all together](https://ismaellebzo.github.io/reading-notes/301/read5.3)
 Read06 | [NODE.JS](https://ismaellebzo.github.io/reading-notes/301/read6.3)
 Read07 | [REST](https://ismaellebzo.github.io/reading-notes/301/read7.3)
+Read08 | [REST](https://ismaellebzo.github.io/reading-notes/301/read8.3)
