@@ -46,3 +46,4 @@ Read03 | [Passing Functions as Props](https://ismaellebzo.github.io/reading-note
 Read04 | [React and Forms](https://ismaellebzo.github.io/reading-notes/301/read4.3)
 Read05 | [Putting it all together](https://ismaellebzo.github.io/reading-notes/301/read5.3)
 Read06 | [NODE.JS](https://ismaellebzo.github.io/reading-notes/301/read6.3)
+Read07 | [REST](https://ismaellebzo.github.io/reading-notes/301/read7.3)
