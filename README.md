@@ -1,6 +1,5 @@
 Hello and Welcome, my name is Ismael Ramadan I'm 23 years old, I'm studying Software Engineering and this is my second year in ASAC, I hope I will be able to work for a big company one day.
 
-
 # Table of content for 102d37
 
 File name | Link
@@ -15,6 +14,7 @@ Read06 | [CSS](https://ismaellebzo.github.io/reading-notes/102/read6)
 Read07 | [Functions](https://ismaellebzo.github.io/reading-notes/102/read7)
 
 --------
+
 # Table of content for 201d35
 
 File name | Link
@@ -35,7 +35,8 @@ Read013 | [Read part 13](https://ismaellebzo.github.io/reading-notes/201/read13.
 Read014 | [Read part 14 Part 1](https://ismaellebzo.github.io/reading-notes/201/read14.2.1)
 Read014 | [Read part 14 Part 2](https://ismaellebzo.github.io/reading-notes/201/read14.2.2)
 
-------
+--------
+
 # Table of content for 301d33
 
 File name | Link
@@ -47,4 +48,5 @@ Read04 | [React and Forms](https://ismaellebzo.github.io/reading-notes/301/read4
 Read05 | [Putting it all together](https://ismaellebzo.github.io/reading-notes/301/read5.3)
 Read06 | [NODE.JS](https://ismaellebzo.github.io/reading-notes/301/read6.3)
 Read07 | [REST](https://ismaellebzo.github.io/reading-notes/301/read7.3)
-Read08 | [REST](https://ismaellebzo.github.io/reading-notes/301/read8.3)
+Read08 | [APIs](https://ismaellebzo.github.io/reading-notes/301/read8.3)
+Read09 | [FUNCTIONAL PROGRAMMING](https://ismaellebzo.github.io/reading-notes/301/read9.3)
