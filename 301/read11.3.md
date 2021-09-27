@@ -53,4 +53,3 @@ The Hybrid Flow, which combines features of the Authorization Code Flow and Impl
 ## Device Authorization Flow
 
 Instead of immediately authenticating the user, input-constrained devices that connect to the internet ask the user to go to a URL on their computer or smartphone and approve the device. This prevents users from having a bad experience on devices that don't have a simple way to enter text. Device apps utilize the Device Authorization Flow to do this (drafted in OAuth 2.0). For usage with mobile and native apps.
-
