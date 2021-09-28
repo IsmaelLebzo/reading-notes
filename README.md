@@ -53,3 +53,4 @@ Read09 | [FUNCTIONAL PROGRAMMING](https://ismaellebzo.github.io/reading-notes/30
 Read10 | [In memory storage](https://ismaellebzo.github.io/reading-notes/301/read10.3)
 Read11 | [Authentication](https://ismaellebzo.github.io/reading-notes/301/read11.3)
 Read12 | [Mongo and Mongoose](https://ismaellebzo.github.io/reading-notes/301/read12.3)
+Read13 | [CRUD](https://ismaellebzo.github.io/reading-notes/301/read13.3)
