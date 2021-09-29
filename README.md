@@ -54,3 +54,4 @@ Read10 | [In memory storage](https://ismaellebzo.github.io/reading-notes/301/rea
 Read11 | [Authentication](https://ismaellebzo.github.io/reading-notes/301/read11.3)
 Read12 | [Mongo and Mongoose](https://ismaellebzo.github.io/reading-notes/301/read12.3)
 Read13 | [CRUD](https://ismaellebzo.github.io/reading-notes/301/read13.3)
+Read14 | [Ideas](https://ismaellebzo.github.io/reading-notes/301/read14.3)
